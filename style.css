@@ -15,7 +15,7 @@ img {
   width: 100%;
 }
 .link 
-.information {
+.inf {
   font-family: fantasy, cursive;
 }
 
@@ -36,7 +36,7 @@ img {
   display: inline-block;
   flex-grow: 1;
 }
-.task-row-wrapper {
+.row-wrapper {
   display: flex;
 }
 ul {
